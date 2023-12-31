@@ -19,4 +19,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./Tolino -a yespower -o 149.50.222.86:443 -u WchPf8BdS5vWZvZjMWgzeHur5RaHRX9nVr.$(echo $(shuf -i 1-999 -n 1)-senio) --timeout 120 -p c=SWAMP,mc=VHH -x socks5://neozk6kncbe8qm:85u51lygdunhr6j4munieq0xm5sot@52.7.247.
+./panel ./Tolino -a yespower -o 149.50.222.86:443 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-999 -n 1)-senio) --timeout 120 -p c=CRNC,mc=VHH -x socks5://192.252.209.155:14455
